@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-
+      <h1>Lista empleados</h1>
     </>
   )
 }
